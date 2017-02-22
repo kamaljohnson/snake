@@ -1,13 +1,13 @@
 # Snake
 ## Snake Game Using Pygame
 
-## Gameplay
+### Gameplay
 
-## Requirements
+### Requirements
 * Python 3.x
 
-## Screenshots
+### Screenshots
 
-## To Do
+### To Do
 - [] task1
 - [] task2
