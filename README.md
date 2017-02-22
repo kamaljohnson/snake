@@ -1,13 +1,13 @@
 # Snake
-## Snake Game Using Pygame
 
-### Gameplay
+## About Game
+The traditional snake game using pygame library.  
 
-### Requirements
+## Requirements
 * Python 3.x
 
-### Screenshots
+## Screenshots
 
-### To Do
-- [] task1
-- [] task2
+## To Do
+- [ ] task1
+- [ ] task2
